@@ -1,0 +1,12 @@
+c:\users\it15022684\documents\visual studio 2015\Projects\spdclab07\spdclab07\bin\Debug\spdclab07.exe.config
+c:\users\it15022684\documents\visual studio 2015\Projects\spdclab07\spdclab07\bin\Debug\spdclab07.exe
+c:\users\it15022684\documents\visual studio 2015\Projects\spdclab07\spdclab07\bin\Debug\spdclab07.pdb
+c:\users\it15022684\documents\visual studio 2015\Projects\spdclab07\spdclab07\obj\Debug\spdclab07.csprojResolveAssemblyReference.cache
+c:\users\it15022684\documents\visual studio 2015\Projects\spdclab07\spdclab07\obj\Debug\spdclab07.Form1.resources
+c:\users\it15022684\documents\visual studio 2015\Projects\spdclab07\spdclab07\obj\Debug\spdclab07.Properties.Resources.resources
+c:\users\it15022684\documents\visual studio 2015\Projects\spdclab07\spdclab07\obj\Debug\spdclab07.csproj.GenerateResource.Cache
+c:\users\it15022684\documents\visual studio 2015\Projects\spdclab07\spdclab07\obj\Debug\spdclab07.exe
+c:\users\it15022684\documents\visual studio 2015\Projects\spdclab07\spdclab07\obj\Debug\spdclab07.pdb
+C:\Users\DASUN\Desktop\IT14142956-lab7\IT14142956\spdclab07\spdclab07\bin\Debug\spdclab07.exe.config
+C:\Users\DASUN\Desktop\IT14142956-lab7\IT14142956\spdclab07\spdclab07\obj\Debug\spdclab07.exe
+C:\Users\DASUN\Desktop\IT14142956-lab7\IT14142956\spdclab07\spdclab07\obj\Debug\spdclab07.pdb
